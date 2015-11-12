@@ -24,6 +24,8 @@ it should now look like:
 	push = +refs/heads/master:refs/heads/gh-pages
 	push = +refs/heads/master:refs/heads/master
 ```
+Make sure you save! (auto-save doesn't always work for hidden files).
+
 **Step 5:** If you haven't already, it would be a good idea to save a short reminder of **Steps 2/3/4** into a text file (such as `gh-pages.txt`) in the root directory of your workspace.  
 
 ```
